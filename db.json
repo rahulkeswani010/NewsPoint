@@ -1,31 +1,6 @@
 {
   "description": [
     {
-      "description": "",
-      "url": "",
-      "id": 1
-    },
-    {
-      "description": "",
-      "url": "",
-      "id": 2
-    },
-    {
-      "description": "",
-      "url": "",
-      "id": 3
-    },
-    {
-      "description": "",
-      "url": "",
-      "id": 4
-    },
-    {
-      "description": "{props.description}",
-      "url": "{props.url}",
-      "id": 5
-    },
-    {
       "description": "Washington, SpaceX is targeting April 20 for the launch of the second crew rotation mission for NASA that will launch four astronauts aboard a Crew Dragon",
       "url": "https://www.businessinsider.in/science/space/news/spacex-to-launch-four-astronauts-to-space-station-on-april-20/articleshow/80611979.cms",
       "id": 6
