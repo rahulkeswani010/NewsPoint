@@ -11,7 +11,7 @@ class Dashboard extends Component {
   }
   componentDidMount() {
     fetch(
-      "https://newsapi.org/v2/top-headlines?country=IN&apiKey=efe521c72773493abe336562cdfe2493"
+      "https://newsapi.org/v2/top-headlines?country=IN&apiKey=<API_KEY>"
     )
       .then((response) => {
         return response.json();
